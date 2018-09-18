@@ -1,21 +1,18 @@
 
 public class Test {
-
-	public static void main(String[] args) {
-		class Test{
 			public static void main (String[] args){
 			
-			age=20; //int
-			 i=0 ; // int
-			 i=1+1 ;//int
-			 j=i ; //int
-			 k= "coucou" ; //string
-			 h=k+k ;//string
-			 majeur=(age>18) ;//char
+		int	age=20; //int 
+		int	i=0 ;//int
+		int y=1+1 ;//int
+		int j=i ; //int
+		String k= "coucou" ;//String
+		String h=k+k ;//String
+		boolean majeur=(age>18);//boolean
 			
 			 }
-			} 
+			
 
 	}
 
-}
+
