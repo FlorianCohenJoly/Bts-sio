@@ -1,0 +1,21 @@
+#FLORIAN COHEN-JOLY
+#td 2
+#jeu de dés
+
+from random import*
+print("Vous lancez 2 dés")
+de1= randint(1,6)
+de2= randint(1,6)
+print("Vous obtenez :",de1,de2)
+
+if de1==de2:
+    score=25
+if de1==6 and de2==6:
+    score=25
+elif de1==de2+1:
+    score=30
+elif de2==de1+1 or de2==de1-1:
+    score=30
+else :
+    score=de1+de2
+print("votre score est:",score)
