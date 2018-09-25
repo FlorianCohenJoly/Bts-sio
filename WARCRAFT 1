@@ -100,3 +100,14 @@ race_id dans personnages
 ALTER TABLE personnages ADD races_id int
 ALTER TABLE personnages ADD FOREIGN KEY (races_id) REFERENCES races (races_id);
 
+2) suprimer la ligne 305
+1) ALTER TABLE personnages ADD constraint toto foreign key(mounts_creature_id) references mounts (mounts_creature_id);
+   alter table personnages add mounts_creature_id int ;
+2)update personnages SET mounts_creature_id="29046" where personnages_name="zakyku";  
+3) delete from mounts where mounts_creature_id=20946;
+
+2)create table plusieurmonture (
+personnages_id int,
+mounts_creature_id int,
+primary key (personnages_id,mounts_creature_id))
+3)
