@@ -110,4 +110,14 @@ ALTER TABLE personnages ADD FOREIGN KEY (races_id) REFERENCES races (races_id);
 personnages_id int,
 mounts_creature_id int,
 primary key (personnages_id,mounts_creature_id))
-3)
+
+3) cle primaire personnages_id et mounts_creature_id
+
+4)update personnages SET mounts_creature_id="-81772" where personnages_name="daril";  
+ update personnages SET mounts_creature_id="-80358" where personnages_name="dumbar";
+ update personnages SET mounts_creature_id="-80357" where personnages_name="jaco";  
+ 
+5) insert into plusieurmonture values ("7","-79790");
+   insert into plusieurmonture values ("7","-78105");
+   insert into plusieurmonture values ("5","-78105");
+   insert into plusieurmonture values ("5","-79790");
