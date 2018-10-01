@@ -11,3 +11,11 @@ public class Question3 {
 		double prixHT= sc.nextDouble();
 		int tauxTVA=15;
 		double prixTTC;
+prixTTC=prixHT*(1+(tauxTVA/100)) *quantite; 
+		
+		System.out.println("Le prixTTC est de:"+prixTTC);
+			
+		    
+	}
+		
+	}
