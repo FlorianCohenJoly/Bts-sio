@@ -1,0 +1,10 @@
+#florian cohen-joly
+#td3
+#exercice 1
+
+debut = int(input("Veuillez saisir un entier: "))
+fin = int(input("Veuillez saisir un entier: "))
+
+for i in range(debut,fin+1):
+    print(i,chr(i))
+
