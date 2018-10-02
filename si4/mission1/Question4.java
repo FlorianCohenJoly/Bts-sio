@@ -22,3 +22,12 @@ prixTTC=prixHT*(1+(tauxTVA/100)) *quantite;
 		
 	}
 
+variables: quantite, pht, ttva, pttc,nom du produit
+Début
+    Saisir nom du produit
+    Saisir pht
+    Saisir quantite
+    ttva=15
+    pttc ← pht*(1+(ttva/100)) *quantite
+    Afficher "Le prixttc est de : ", pttc
+Fin
