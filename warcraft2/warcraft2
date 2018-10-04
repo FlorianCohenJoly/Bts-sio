@@ -1,0 +1,24 @@
+1)
+    faction(idFaction,nomFaction)
+    cle  primaire: idFaction
+    
+    races(races_id,races_names,races_side)
+    
+2)create table faction (
+idfaction INT,
+nomfaction VARCHAR(100),
+primary key (idfaction))
+
+3)insert into faction values(1,"alliance")
+insert into faction values(2,"horde")
+
+4) alter table races
+drop column races_side
+
+alter table races
+add idfaction int,
+
+update races set idfaction=1 where races_id=1
+update races set idfaction=1 where races_id=3
+update races set idfaction=1 where races_id=4
+update races set idfaction=1 where races_id=7
