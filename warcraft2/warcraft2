@@ -591,7 +591,7 @@ INSERT INTO `members` (`members_character_race`, `members_character_spec_descrip
 (29,	NULL,	'Demorli',	24880,	NULL,	'Hyjal',	'Hyjal',	9,	'Misery',	NULL,	NULL,	1,	9,	NULL,	NULL,	110,	'Wisp',	'hyjal/26/159588890-avatar.jpg'),
 (1,	NULL,	'Mightbe',	13440,	NULL,	'Hyjal',	'Hyjal',	9,	'Misery',	NULL,	NULL,	0,	2,	NULL,	NULL,	110,	'Wisp',	'hyjal/217/152414169-avatar.jpg');
 
-
+2) ALTER TABLE classes DROP FOREIGN KEY tata;
 
 
 
