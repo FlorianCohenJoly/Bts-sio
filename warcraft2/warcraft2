@@ -593,5 +593,10 @@ INSERT INTO `members` (`members_character_race`, `members_character_spec_descrip
 
 2) ALTER TABLE classes DROP FOREIGN KEY tata;
 
+4) 'members_id` INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+5)alter table members
+add FOREIGN KEY (`members_character_race`) REFERENCES races (races_id);
 
+alter table members
+add FOREIGN KEY (`members_character_class`) REFERENCES classes (classes_id);
 
