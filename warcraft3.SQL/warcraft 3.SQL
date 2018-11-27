@@ -1,4 +1,3 @@
-
     1) SELECT classes_name FROM classes
     
     2) SELECT races_name FROM races where races_id= 5
