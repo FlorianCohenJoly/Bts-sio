@@ -1,0 +1,10 @@
+Question 1:
+
+arp -a affiche un affichage graphique avec des des adresses internet, des adresses physique et le type
+
+Question 2:
+
+l'adresse ip que l'ont vien de pinger s'ajoute au autre adresse ip presente apres la commande arp -a
+
+Question 3: 
+
