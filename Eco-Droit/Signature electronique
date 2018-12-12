@@ -1,0 +1,63 @@
+La signature numérique (parfois appelée signature électronique) est un mécanisme permettant de garantir
+l'intégrité d'un document électronique et d'en authentifier l'auteur, par analogie avec la signature
+manuscrite d'un document papier.
+
+Il  convient  de  déterminer  quelles  sont  les  fonctions assurées  par  la  signature  manuscrite  et  de  les  
+confronter à la signature numérique.  
+
+-identification :
+L’identification de manière certaine de la personne est rendue possible par les signatures numériques 
+reposant sur un système de clés asymétrique. Pourtant, il faut prendre conscience du bouleversement 
+de la relation contractuelle. En effet, lors de la signature manuscrite d’un contrat, son rôle d‘identifiant 
+est  résiduel  alors  que  la  signature  électronique  à  en  quelque  sorte  une  finalité  nouvelle  :
+
+
+-adhésion au contenu :
+La signature manuscrite exprime le consentement du signataire au contenu d’un acte. Or la signature électronique, 
+par le biais de l’application libre et volontaire de la clé privée, permet de considérer que 
+le  signataire  a  exprimé  son  consentement  ou  son  adhésion  à  l’acte  signé. 
+
+-garantie de l'intégrété :
+Il doit garantir que le document n'a pas été altéré entre l'instant où l'auteur l'a signé et le moment
+où le lecteur le consulte (propriété d'intégrité).Le maintien  de  l’intégrité  d’un  document  signé  de  manière 
+manuscrite  est  assuré  par  l’absence  de  rature ou de correction sur le document signé. 
+En outre, sur le plan de la conservation, le papier est un support qui se dégrade peu.
+
+-constitution d'un original :
+La signature permet de conférer à un document le statut d’original qui est nécessaire à 
+tout acte sous seing privé. Avec l’avènement de l’ère numérique, le statut du document est un peu bousculé même si 
+l’écrit  papier  connaît  l’hypothèse  des  originaux  multiples 36.  Dès  lors,  la  pluralité  d’écrit  sous  forme  
+électronique  ne  doit  pas  s’analyser  forcément  en  terme  de  copie.  Si  le  document  est  signé  électroniquement,  
+il  constitue  un  original  au  même  titre  que  les  deux  exemplaires  d’un  même  acte  signé réciproquement par les parties.  
+
+
+-psycologique :
+Sur le plan de l’ergonomie utilisateur, il est à noter qu’une bonne pratique 
+consiste à afficher une image de la signature manuscrite au signataire sur 
+l’écran, au moment où il  appose  sa  signature  électronique.
+
+
+
+
+
+
+4)Les formes de signatures électroniques
+
+-signature numérisée : 
+Nombre  d’auteurs  considèrent  que  la  reproduction  par  numérisation  de  la  signature  manuscrite
+constitue une signature électronique. Une conception aussi large ne peut pourtant pas être retenue à la
+lumière de la loi du 13 mars 2000. 
+
+-carte à puce et code secret :
+Toujours  dans  l’esprit  d’une  approche  fonctionnelle  de  la  signature,  l’utilisation  d’une  
+carte  à  puce  couplée à un code secret permet non seulement d’identifier 
+l’individu qui est seul détenteur du code secret mais aussi de rattacher
+directement cette identification à un acte déterminé. 
+
+-signature biométrique :
+La  science,  rattrapant  la  fiction,  s’intéresse  aux caractéristiques  uniques  des  individus  pour  les  
+identifier  et  leur  permettre  de  rattacher  cette  identification  à  un  acte.  Ces  procédés  techniques
+sont nombreux,  il  peut  s’agir  de  la  dactyloscopie,  de  la  rétinoscopie ou  encore  de  
+la  reconnaissance vocale ou dynamique de la signature.  
+
+-signature electronique
