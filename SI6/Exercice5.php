@@ -3,7 +3,7 @@
 
 <html>
     <head>
-		<title> Carte d'identité Ping </title>
+		<title> Calcul TVA </title>
 		<meta charset="utf-8">
 	</head>
 		
