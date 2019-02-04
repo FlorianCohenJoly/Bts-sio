@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<link rel="stylesheet" href="tableau.css" />
+	<link rel="stylesheet" href="Exercice1.css" />
      <meta charset="utf-8">
-     <meta name="author" content="Thomas">
-    <title>Thomas</title>
+     
+    <title>Exercice 1</title>
 </head>
 
     <body>
