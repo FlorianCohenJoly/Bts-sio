@@ -1,0 +1,16 @@
+table {
+	border: thin solid;
+	border-collapse: collapse;
+}
+
+td { 
+	width : 10% ;
+	border: thin solid #000000;
+	border-collapse: collapse;
+}
+
+tr {
+	width : 10% ;
+	border: thin solid #000000;
+	border-collapse: collapse;
+}
