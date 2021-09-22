@@ -1,13 +1,1 @@
-florian cohen-joly
-
-
-Ermont (bus 1h20)
-
-
-Bac STMG spe SIG
-
-
-lycée van gogh Ermont
-
-
-j'aime l'informatique
+Se dépot à été créée lors de ma première année de Bts SIO en 2018/2019.
